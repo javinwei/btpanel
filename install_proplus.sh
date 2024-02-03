@@ -399,7 +399,7 @@ Install_webpy()
 {
 	isSetup=`python -m web 2>&1|grep package`
 	if [ "$isSetup" = "" ];then
-		wget -O web.py-0.38.tar.gz $download_Url/web.py-0.38.tar.gz -T 10
+		wget -O web.py-0.38.tar.gz https://files.pythonhosted.org/packages/fc/58/21649fc1849b1f688f3d42e25e79615cc573469ea57eaa9e6af70b1e3b87/web.py-0.39.tar.gz -T 10
 		tar xvf web.py-0.38.tar.gz
 		rm -f web.py-0.38.tar.gz
 		cd web.py-0.38
