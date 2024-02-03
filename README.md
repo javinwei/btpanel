@@ -2,10 +2,10 @@
 
 #### 介绍
 BT
-卸载
+#### 卸载
 wget -O uninstall.sh https://gitee.com/javinwei/btpanel/raw/master/uninstall.sh && sh uninstall.sh
-安装
-
+#### 安装
+yum install -y wget && wget -O install.sh https://gitee.com/javinwei/btpanel/raw/master/install_pro.sh && sh install.sh
 #### 软件架构
 软件架构说明
 
