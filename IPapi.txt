@@ -1,0 +1,7 @@
+国内中文 https://ip.zxinc.org/api.php?type=json&ip=113.117.221.156
+国外英文 http://ip-api.com/json/24.48.0.1?lang=en
+国外英文 https://api.ip.sb/geoip/113.117.221.156?callback=getgeoip
+国内英文 https://api.myip.la/en?json
+国外英文 https://ipapi.co/113.117.221.156/json/
+国内中文 http://whois.pconline.com.cn/ipJson.jsp?callback=testJson&ip=61.235.82.163
+国内中文 https://ip.cn/api/index?ip=54.85.225.119&type=1
